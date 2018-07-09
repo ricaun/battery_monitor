@@ -1,5 +1,5 @@
-## Battery Monitor
+# Battery Monitor
 
-# Arduino 3.3V 
+## Arduino 3.3V 
 
-# ESP8266
+## ESP8266
