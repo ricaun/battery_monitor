@@ -9,7 +9,7 @@ Now you can turn off the voltage divider and put the microcontroller to sleep mo
 This circuit was designed to work with arduino running in 3.3V, the voltage divider turn 4.3V from the li ion battery to 3.3V.
 Connect A0 to any analog pin from Arduino and EN to a digital output from arduino, turn EN High to turn the voltage divider on and EN Low to turn off.
 
-<img src="Battery_Monitor/Battery_Monitor_Arduino.png" alt="Battery_Monitor_Arduino" width="50%" height="50%">
+<img src="Battery_Monitor/Battery_Monitor_Ard.png" alt="Battery_Monitor_Ard" width="50%" height="50%">
 
 ## ESP8266
 
